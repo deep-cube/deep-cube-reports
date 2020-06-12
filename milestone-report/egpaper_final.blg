@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: egpaper_final.aux
+The style file: ieee_fullname.bst
+Database file #1: egbib.bib
+Warning--to sort, need author or key in CubeSolves
+Warning--can't use both volume and number fields in sthsth
+Warning--empty journal in sadek2012fast
+You've used 24 entries,
+            2120 wiz_defined-function locations,
+            624 strings with 9246 characters,
+and the built_in function-call counts, 10955 in all, are:
+= -- 1003
+> -- 747
+< -- 12
++ -- 297
+- -- 269
+* -- 814
+:= -- 1787
+add.period$ -- 73
+call.type$ -- 24
+change.case$ -- 199
+chr.to.int$ -- 0
+cite$ -- 27
+duplicate$ -- 384
+empty$ -- 707
+format.name$ -- 269
+if$ -- 2280
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 22
+newline$ -- 121
+num.names$ -- 48
+pop$ -- 247
+preamble$ -- 1
+purify$ -- 175
+quote$ -- 0
+skip$ -- 314
+stack$ -- 0
+substring$ -- 505
+swap$ -- 137
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 96
+warning$ -- 3
+while$ -- 79
+width$ -- 26
+write$ -- 253
+(There were 3 warnings)

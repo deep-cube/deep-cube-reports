@@ -1,0 +1,159 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{CubeSolves}
+The cubesolves website.
+\newblock http://cubesolv.es/.
+
+\bibitem{youtube8m}
+Sami Abu-El-Haija, Nisarg Kothari, Joonseok Lee, Paul Natsev, George Toderici,
+  Balakrishnan Varadarajan, and Sudheendra Vijayanarasimhan.
+\newblock Youtube-8m: A large-scale video classification benchmark.
+\newblock {\em arXiv preprint arXiv:1609.08675}, 2016.
+
+\bibitem{cube_robotics}
+Ilge Akkaya, Marcin Andrychowicz, Maciek Chociej, Mateusz Litwin, Bob McGrew,
+  Arthur Petron, Alex Paino, Matthias Plappert, Glenn Powell, Raphael Ribas,
+  et~al.
+\newblock Solving rubik's cube with a robot hand.
+\newblock {\em arXiv preprint arXiv:1910.07113}, 2019.
+
+\bibitem{ss-tad}
+Shyamal Buch, Victor Escorcia, Bernard Ghanem, Li Fei-Fei, and Juan~Carlos
+  Niebles.
+\newblock End-to-end, single-stream temporal action detection in untrimmed
+  videos.
+\newblock In {\em Proceedings of the British Machine Vision Conference
+  ({BMVC})}, 2017.
+
+\bibitem{activitynet}
+Fabian Caba~Heilbron, Victor Escorcia, Bernard Ghanem, and Juan Carlos~Niebles.
+\newblock Activitynet: A large-scale video benchmark for human activity
+  understanding.
+\newblock In {\em Proceedings of the ieee conference on computer vision and
+  pattern recognition}, pages 961--970, 2015.
+
+\bibitem{i3d}
+Joao Carreira and Andrew Zisserman.
+\newblock Quo vadis, action recognition? a new model and the kinetics dataset.
+\newblock In {\em proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 6299--6308, 2017.
+
+\bibitem{stochastic}
+Kyungeun Cho, Hyungje Cho, and Kyhyun Um.
+\newblock Human action recognition by inference of stochastic regular grammars.
+\newblock In Ana Fred, Terry~M. Caelli, Robert P.~W. Duin, Aur{\'e}lio~C.
+  Campilho, and Dick de Ridder, editors, {\em Structural, Syntactic, and
+  Statistical Pattern Recognition}, pages 388--396, Berlin, Heidelberg, 2004.
+  Springer Berlin Heidelberg.
+
+\bibitem{epic_kitchen}
+Dima Damen, Hazel Doughty, Giovanni Maria~Farinella, Sanja Fidler, Antonino
+  Furnari, Evangelos Kazakos, Davide Moltisanti, Jonathan Munro, Toby Perrett,
+  Will Price, et~al.
+\newblock Scaling egocentric vision: The epic-kitchens dataset.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 720--736, 2018.
+
+\bibitem{hvu}
+Ali Diba, Mohsen Fayyaz, Vivek Sharma, Manohar Paluri, Jurgen Gall, Rainer
+  Stiefelhagen, and Luc Van~Gool.
+\newblock Holistic large scale video understanding.
+\newblock {\em arXiv preprint arXiv:1904.11451}, 2019.
+
+\bibitem{lrcn}
+Jeffrey Donahue, Lisa Anne~Hendricks, Sergio Guadarrama, Marcus Rohrbach,
+  Subhashini Venugopalan, Kate Saenko, and Trevor Darrell.
+\newblock Long-term recurrent convolutional networks for visual recognition and
+  description.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 2625--2634, 2015.
+
+\bibitem{better_ava}
+Rohit Girdhar, Jo{\~a}o Carreira, Carl Doersch, and Andrew Zisserman.
+\newblock A better baseline for ava.
+\newblock {\em arXiv preprint arXiv:1807.10066}, 2018.
+
+\bibitem{sthsth}
+Raghav Goyal, Samira~Ebrahimi Kahou, Vincent Michalski, Joanna Materzynska,
+  Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos,
+  Moritz Mueller-Freitag, et~al.
+\newblock The" something something" video database for learning and evaluating
+  visual common sense.
+\newblock In {\em ICCV}, volume~1, page~5, 2017.
+
+\bibitem{10.1016/j.neunet.2005.06.042}
+Alex Graves and J\"{u}rgen Schmidhuber.
+\newblock 2005 special issue: Framewise phoneme classification with
+  bidirectional lstm and other neural network architectures.
+\newblock {\em Neural Netw.}, 18(5–6):602–610, June 2005.
+
+\bibitem{ava}
+Chunhui Gu, Chen Sun, David~A Ross, Carl Vondrick, Caroline Pantofaru, Yeqing
+  Li, Sudheendra Vijayanarasimhan, George Toderici, Susanna Ricco, Rahul
+  Sukthankar, et~al.
+\newblock Ava: A video dataset of spatio-temporally localized atomic visual
+  actions.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 6047--6056, 2018.
+
+\bibitem{r3d}
+Kensho Hara, Hirokatsu Kataoka, and Yutaka Satoh.
+\newblock Learning spatio-temporal features with 3d residual networks for
+  action recognition.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision Workshops}, pages 3154--3160, 2017.
+
+\bibitem{kinetics}
+Will Kay, Joao Carreira, Karen Simonyan, Brian Zhang, Chloe Hillier, Sudheendra
+  Vijayanarasimhan, Fabio Viola, Tim Green, Trevor Back, Paul Natsev, et~al.
+\newblock The kinetics human action video dataset.
+\newblock {\em arXiv preprint arXiv:1705.06950}, 2017.
+
+\bibitem{hollywood2}
+Marcin Marszalek, Ivan Laptev, and Cordelia Schmid.
+\newblock Actions in context.
+\newblock In {\em 2009 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 2929--2936. IEEE, 2009.
+
+\bibitem{cube_rl}
+Stephen McAleer, Forest Agostinelli, Alexander Shmakov, and Pierre Baldi.
+\newblock Solving the rubik's cube without human knowledge.
+\newblock {\em arXiv preprint arXiv:1805.07470}, 2018.
+
+\bibitem{faster_rcnn}
+Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
+\newblock Faster r-cnn: Towards real-time object detection with region proposal
+  networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  91--99, 2015.
+
+\bibitem{sadek2012fast}
+Samy Sadek, Ayoub Al-Hamadi, Bernd Michaelis, and Usama Sayed.
+\newblock A fast statistical approach for human activity recognition.
+\newblock 2012.
+
+\bibitem{finegym}
+Dian Shao, Yue Zhao, Bo Dai, and Dahua Lin.
+\newblock Finegym: A hierarchical video dataset for fine-grained action
+  understanding.
+\newblock {\em arXiv preprint arXiv:2004.06704}, 2020.
+
+\bibitem{charades}
+Gunnar~A Sigurdsson, G{\"u}l Varol, Xiaolong Wang, Ali Farhadi, Ivan Laptev,
+  and Abhinav Gupta.
+\newblock Hollywood in homes: Crowdsourcing data collection for activity
+  understanding.
+\newblock In {\em European Conference on Computer Vision}, pages 510--526.
+  Springer, 2016.
+
+\bibitem{ucf101}
+Khurram Soomro, Amir~Roshan Zamir, and Mubarak Shah.
+\newblock Ucf101: A dataset of 101 human actions classes from videos in the
+  wild.
+\newblock {\em arXiv preprint arXiv:1212.0402}, 2012.
+
+\bibitem{g-tad}
+Mengmeng Xu, Chen Zhao, David~S. Rojas, Ali Thabet, and Bernard Ghanem.
+\newblock G-tad: Sub-graph localization for temporal action detection, 2019.
+
+\end{thebibliography}
